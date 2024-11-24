@@ -1,13 +1,13 @@
 <div>
   <h1 align="center">Hi 👋, I'm Md. Rakibul Hasan</h1>
-<h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer (JavaScript) from Bangladesh</h3>
 <br/>
 
-- 🔭 Curently I'm undergraduate at Southeast University.
-- 🌱 I’m currently learning more about Full stack development (MERN).
-- 👯 I’m looking to share more knowledge to open source.
-- 🤔 I’m looking for improving my problem solving skills.
-- 💬 Ask me about Web development and Carier Guideline.
+- 🔭 I'm a graduate of Southeast University.
+- 🌱 I’m learning more about Full stack development (MERN).
+- 👯 I’m looking to share more knowledge of open source.
+- 🤔 I’m looking to improve my problem-solving skills.
+- 💬 Ask me about Web development and Career Guidelines.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-rakibul-h-asan/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am an introvert.
